@@ -8,6 +8,6 @@ phases:
     files:
       -index.html
       -favicon.ico
-      -'Dave Cookes Resume Cut v101018.pdf'
+      -Dave_Cookes_Resume.pdf
       -styles/main.css
       -images/*
