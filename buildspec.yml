@@ -3,11 +3,11 @@ version: 0.1
 phases:
   build:
     commands:
-      -echo Nothing to do stylesheet
-  artifacts:
-    files:
-      -index.html
-      -favicon.ico
-      -Dave_Cookes_Resume.pdf
-      -styles/main.css
-      -images/*
+      - echo Nothing to do yet
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - Dave_Cookes_Resume.pdf
+    - styles/main.css
+    - images/*
